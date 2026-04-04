@@ -1,63 +1,110 @@
-<h1 align="center">Hi there 👋, I'm Kanishk</h1>
+<h1 align="center">🛡️ Kanishk Raj</h1>
+
 <p align="center">
-  💻 Aspiring Developer | 🎸 Guitarist | 📚 Book Lover
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Kanishk+Raj;Cybersecurity+Enthusiast+⚔️;Embedded+Systems+Engineer;Python+Developer;Building+Real-World+Security+Systems+🚀" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 🧠 About Me
 
-I'm a passionate self-learner diving into the world of programming and development.  
-So far, I've explored:
+```bash
+> whoami
+Kanishk Raj
 
-- 🐍 **Python**
-- 💻 **C++**
-- 🌐 **HTML**, **CSS**, **JavaScript**
+> role
+Electronics & Communication Engineering Student
 
-I'm actively working on projects to apply what I’ve learned and build cool stuff!
+> focus
+Cybersecurity | Embedded Systems | Networking
 
----
-
-### 💼 Projects
-
-Here are a few things I’ve been working on:
-
-- 🕹️ *Mini-games using HTML/CSS/JS*
-- 🐍 *Python automation scripts*
-- 💻 *Console applications in C++*
-
-> *[Feel free to check out my repositories for more!](#)*
+> mission
+Master offensive security & build powerful real-world systems
+```
 
 ---
 
-### 🎯 Goals
+## 📊 GitHub Stats
 
-- Deepen my skills in **Web Development** and **Cybersecurity**
-- Start contributing to open source projects
-- Create more real-world tools and utilities
-
----
-
-### 🎸 Hobbies
-
-Outside the terminal, I enjoy:
-
-- Playing 🎸 guitar
-- Reading 📚 books on philosophy, tech, and personal growth
-- Exploring new technologies and ethical hacking
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kanishkraj-ops&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanishkraj-ops&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-### 📫 Connect with Me
+## 🧠 LeetCode Stats
 
-I'm always open to learning and collaboration!  
-You can find me here:
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/kanishk_raj103?theme=dark&font=Baloo&ext=heatmap" />
+</p>
 
-- 💼 [LinkedIn]([https://linkedin.com/in/kanishk](https://www.linkedin.com/in/kanishk-raj-841715332/))
-- 📧 Email: kanishkraj68@outlook.com
+---
+
+## ⚙️ Tech Arsenal
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js" />
+</p>
+
+### 🛠️ Tools & Tech
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,nodejs,express" />
+</p>
+
+### 🔐 Cybersecurity
+
+`Networking` `Sockets` `Wireshark` `Payload Development` `Reverse Engineering`
+
+---
+
+## 🚀 Featured Projects
+
+* 🛡️ Desk Guardian → Real-time hardware security system
+* 🤖 JARVIS AI → Voice-controlled assistant
+* 🌐 Blog Platform → Node.js + Express full-stack app
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kanishkraj-ops/kanishkraj-ops/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanishkraj-ops&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kanishk-raj-841715332/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/kanishkraj-ops">
+    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  Made with ❤️ by Kanishk Raj
+  <img src="https://komarev.com/ghpvc/?username=kanishkraj-ops&label=Profile%20Views&color=00F7FF&style=flat" />
 </p>
+
+---
+
+## ⚡ Mindset
+
+> "I don’t just write code — I build systems, break them, and make them unstoppable."

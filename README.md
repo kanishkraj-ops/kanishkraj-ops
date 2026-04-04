@@ -1,20 +1,20 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20[Your%20Name]%20👾&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=ECE%20Undergrad%20•%20Hardware%20%2B%20Software%20Builder%20•%20DSA%20Grinder&descAlignY=58&descSize=16&animation=fadeIn" />
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:24243e&height=220&section=header&text=Kanishk%20Raj&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=ECE%20%40%20DTU%20%E2%80%A2%20Hardware%20%2B%20Software%20Systems%20%E2%80%A2%20DSA%20Grinder&descAlignY=60&descSize=16&animation=fadeIn" />
 
-<!-- Typing Animation -->
+<!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=ECE+%40+Delhi+Technological+University+%F0%9F%8E%93;Building+Hardware+%2B+Software+Systems+%F0%9F%9B%A0%EF%B8%8F;Consistent+DSA+Problem+Solver+%F0%9F%93%88;Always+shipping+something+new+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Electronics+%26+Communication+%40+DTU+%F0%9F%8E%93;Building+Real-Time+Hardware+Security+Systems+%F0%9F%9B%A1%EF%B8%8F;Voice-Controlled+AI+Automation+%F0%9F%A4%96;Full-Stack+Web+Developer+%F0%9F%8C%90;Consistent+DSA+Problem+Solver+%F0%9F%93%88;Always+shipping+something+new+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
-<br/>
-<br/>
+<br/><br/>
 
-<!-- Profile Views + Followers Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=kanishkraj-ops&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
 &nbsp;
-![GitHub followers](https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS)
+![GitHub followers](https://img.shields.io/github/followers/kanishkraj-ops?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS)
+&nbsp;
+![GitHub stars](https://img.shields.io/github/stars/kanishkraj-ops?style=for-the-badge&color=f59e0b&labelColor=0d1117&label=TOTAL+STARS)
 
 </div>
 
@@ -23,24 +23,29 @@
 ## 🧬 About Me
 
 ```typescript
-const developer = {
-  name:       "Your Name",
-  university: "Delhi Technological University (DTU)",
-  degree:     "B.Tech — Electronics & Communication Engineering",
-  passion:    ["Hardware Systems", "Software Engineering", "DSA"],
-  currentlyBuilding: "Something cooler than yesterday's project ⚡",
-  askMeAbout: ["Arduino", "PyQt5", "Node.js", "Competitive Programming"],
-  funFact:    "I debug hardware with software and software with hardware 🔄"
+const kanishk = {
+  name:         "Kanishk Raj",
+  alias:        "kanishkraj-ops",
+  university:   "Delhi Technological University (DTU)",
+  degree:       "B.Tech — Electronics & Communication Engineering",
+  passion:      ["Embedded Systems", "Software Engineering", "DSA"],
+  building:     [
+    "🛡️  Desk Guardian  — Real-time hardware security dashboard",
+    "🤖  JARVIS         — Voice-controlled AI automation system",
+    "🌐  Blog Platform  — Full-stack Node.js application"
+  ],
+  techPhilosophy: "Hardware tells the truth. Software gives it a voice.",
+  currentFocus:   "Bridging the gap between silicon and software ⚡",
 };
 ```
 
 <div align="center">
 
-| 🎓 Academics | 🛠️ Craft | 🧠 Mindset |
+| 🎓 Academics | 🛠️ What I Build | ⚡ How I Think |
 |:---:|:---:|:---:|
-| ECE @ DTU | Hardware + Software Fusion | Consistent daily problem solver |
-| Embedded Systems | Real-time dashboards | Always iterating |
-| Signal Processing | Voice-driven automation | Ship, learn, repeat |
+| ECE @ DTU | Hardware + Software fusion | Ship fast, iterate faster |
+| Embedded Systems | Real-time dashboards | Consistency beats intensity |
+| Signal Processing | Voice-driven AI systems | DSA is a daily ritual |
 
 </div>
 
@@ -48,36 +53,14 @@ const developer = {
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<!-- Project 1 -->
-<a href="#">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=desk-guardian&theme=tokyonight&border_color=7c3aed&hide_border=false" />
-</a>
-&nbsp;&nbsp;
-<!-- Project 2 -->
-<a href="#">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=jarvis-ai&theme=tokyonight&border_color=7c3aed&hide_border=false" />
-</a>
-
-<br/><br/>
-
-<a href="#">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=blog-platform&theme=tokyonight&border_color=7c3aed&hide_border=false" />
-</a>
-
-</div>
-
-<br/>
-
 ### 🛡️ Desk Guardian
-> **Real-time hardware security dashboard**
+> **Real-time hardware security monitoring dashboard**
 
 ```
-🔧 Stack   →  Arduino  +  PyQt5  +  Python
-🎯 Purpose →  Real-time hardware monitoring & threat detection
-✨ Feature →  Live sensor dashboard with alert system
-📡 Status  →  Active Development
+🔧 Stack    →  Arduino  +  PyQt5  +  Python  +  Serial Communication
+🎯 Purpose  →  Real-time hardware event monitoring & anomaly detection
+✨ Features →  Live sensor feeds · Alert system · Visual dashboard
+📡 Status   →  Active Development
 ```
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
@@ -87,28 +70,28 @@ const developer = {
 ---
 
 ### 🤖 JARVIS AI Assistant
-> **Voice-controlled automation system**
+> **Voice-controlled intelligent automation system**
 
 ```
-🔧 Stack   →  Python  +  Speech Recognition  +  NLP
-🎯 Purpose →  Hands-free system control and automation
-✨ Feature →  Natural language command execution
-📡 Status  →  Actively maintained
+🔧 Stack    →  Python  +  Speech Recognition  +  pyttsx3  +  NLP
+🎯 Purpose  →  Hands-free system control & smart task automation
+✨ Features →  Natural language commands · System automation · Voice feedback
+📡 Status   →  Actively maintained
 ```
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/AI--Powered-412991?style=flat-square&logo=openai&logoColor=white)
+![SpeechRecognition](https://img.shields.io/badge/Speech_AI-7c3aed?style=flat-square&logo=amazon-alexa&logoColor=white)
 
 ---
 
 ### 🌐 Blog Platform
-> **Full-stack web application**
+> **Full-stack blogging application**
 
 ```
-🔧 Stack   →  Node.js  +  Express  +  MongoDB  +  EJS
-🎯 Purpose →  Complete blogging platform with auth & CRUD
-✨ Feature →  RESTful API, session management, rich text editor
-📡 Status  →  Deployed
+🔧 Stack    →  Node.js  +  Express  +  MongoDB  +  EJS  +  REST API
+🎯 Purpose  →  Complete CRUD blogging platform with auth & sessions
+✨ Features →  RESTful API · Session management · User authentication
+📡 Status   →  Deployed ✅
 ```
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -127,7 +110,7 @@ const developer = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-### 🖥️ Frontend & Backend
+### 🖥️ Web & App Dev
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
@@ -137,8 +120,9 @@ const developer = {
 ### 🔩 Hardware & Embedded
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded_C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-### 🗄️ Databases & Tools
+### 🗄️ Databases & DevTools
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -153,12 +137,12 @@ const developer = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&border_color=7c3aed&hide_border=false&count_private=true&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&border=7c3aed&stroke=7c3aed&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kanishkraj-ops&show_icons=true&theme=tokyonight&border_color=7c3aed&count_private=true&rank_icon=github&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kanishkraj-ops&theme=tokyonight&border=7c3aed&stroke=7c3aed&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa" />
 
 <br/><br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=tokyonight&border_color=7c3aed&layout=compact&langs_count=8" />
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkraj-ops&theme=tokyonight&border_color=7c3aed&layout=compact&langs_count=8" />
 
 </div>
 
@@ -168,7 +152,11 @@ const developer = {
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/yourleetcodeusername?theme=dark&font=Fira%20Code&ext=heatmap&border=1&radius=10" />
+<img src="https://leetcard.jacoblin.cool/kanishk_raj103?theme=dark&font=Fira%20Code&ext=heatmap&border=1&radius=10" alt="LeetCode Stats" />
+
+<br/><br/>
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-kanishk__raj103-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kanishk_raj103/)
 
 </div>
 
@@ -178,7 +166,7 @@ const developer = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f59e0b&area=true&hide_border=false&border_color=7c3aed" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kanishkraj-ops&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f59e0b&area=true&hide_border=false&border_color=7c3aed" />
 
 </div>
 
@@ -188,41 +176,46 @@ const developer = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=kanishkraj-ops&theme=tokyonight&no-frame=false&margin-w=6&row=1&column=7" />
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 🐍 Contribution Snake
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourusername)
-
-<br/>
-
-<!-- Snake animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kanishkraj-ops/kanishkraj-ops/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kanishkraj-ops/kanishkraj-ops/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/kanishkraj-ops/kanishkraj-ops/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
 
 ---
 
+## 🌐 Let's Connect
+
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kanishk_Raj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanishk-raj)
+&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-kanishk__raj103-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kanishk_raj103/)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-kanishkraj--ops-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kanishkraj-ops)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Hardware tells the truth. Software gives it a voice."*
+
+<br/>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
-
-**"First, solve the problem. Then, write the code."** — John Johnson
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>

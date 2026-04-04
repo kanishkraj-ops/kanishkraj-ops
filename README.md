@@ -1,30 +1,32 @@
-<h1 align="center">🛡️ Kanishk Raj</h1>
+<h1 align="center">💻 Kanishk Raj Terminal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Kanishk+Raj;Cybersecurity+Enthusiast+⚔️;Embedded+Systems+Engineer;Python+Developer;Building+Real-World+Security+Systems+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00FF00&center=true&vCenter=true&width=700&lines=Initializing+System...;Loading+Kanishk+Raj+Profile;Cybersecurity+Mode+Activated+⚔️;Welcome+to+the+Terminal" />
 </p>
 
 ---
 
-## 🧠 About Me
-
 ```bash
-> whoami
+┌──(root@kanishk)-[~/profile]
+└─$ whoami
 Kanishk Raj
 
-> role
+┌──(root@kanishk)-[~/profile]
+└─$ role
 Electronics & Communication Engineering Student
 
-> focus
-Cybersecurity | Embedded Systems | Networking
+┌──(root@kanishk)-[~/profile]
+└─$ focus
+Cybersecurity | Embedded Systems | Networking | Exploit Dev
 
-> mission
-Master offensive security & build powerful real-world systems
+┌──(root@kanishk)-[~/profile]
+└─$ mission
+Become an advanced security engineer & build real-world systems
 ```
 
 ---
 
-## 📊 GitHub Stats
+## 📊 system.stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kanishkraj-ops&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -34,43 +36,53 @@ Master offensive security & build powerful real-world systems
 
 ---
 
-## 🧠 LeetCode Stats
+```bash
+┌──(root@kanishk)-[~/skills]
+└─$ ls tech_stack
+Python  C++  C  JavaScript
+
+┌──(root@kanishk)-[~/skills]
+└─$ ls tools
+Linux  Git  NodeJS  Express
+
+┌──(root@kanishk)-[~/skills]
+└─$ ls cybersecurity
+Networking  Sockets  Wireshark  PayloadDev  ReverseEngineering
+```
+
+---
+
+## 🧠 leetcode.log
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/kanishk_raj103?theme=dark&font=Baloo&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/kanishk_raj103?theme=dark&font=Fira+Code&ext=heatmap" />
 </p>
 
 ---
 
-## ⚙️ Tech Arsenal
+```bash
+┌──(root@kanishk)-[~/projects]
+└─$ ls
+DeskGuardian/
+JarvisAI/
+BlogPlatform/
 
-### 💻 Languages
+┌──(root@kanishk)-[~/projects]
+└─$ cat DeskGuardian
+Real-time hardware security system (Arduino + PyQt5)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js" />
-</p>
+┌──(root@kanishk)-[~/projects]
+└─$ cat JarvisAI
+Voice-controlled assistant system
 
-### 🛠️ Tools & Tech
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,git,nodejs,express" />
-</p>
-
-### 🔐 Cybersecurity
-
-`Networking` `Sockets` `Wireshark` `Payload Development` `Reverse Engineering`
-
----
-
-## 🚀 Featured Projects
-
-* 🛡️ Desk Guardian → Real-time hardware security system
-* 🤖 JARVIS AI → Voice-controlled assistant
-* 🌐 Blog Platform → Node.js + Express full-stack app
+┌──(root@kanishk)-[~/projects]
+└─$ cat BlogPlatform
+Full-stack Node.js + Express application
+```
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 system.activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/kanishkraj-ops/kanishkraj-ops/output/github-contribution-grid-snake.svg" />
@@ -78,33 +90,23 @@ Master offensive security & build powerful real-world systems
 
 ---
 
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanishkraj-ops&theme=tokyo-night&hide_border=true" />
-</p>
+```bash
+┌──(root@kanishk)-[~/connect]
+└─$ links
+LinkedIn  →  https://www.linkedin.com/in/kanishk-raj-841715332/
+GitHub    →  https://github.com/kanishkraj-ops
+```
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kanishk-raj-841715332/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/kanishkraj-ops">
-    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+```bash
+┌──(root@kanishk)-[~/system]
+└─$ echo $MINDSET
+"I build systems. I break systems. I make them unstoppable."
+```
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kanishkraj-ops&label=Profile%20Views&color=00F7FF&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=kanishkraj-ops&label=VISITORS&color=00ff00&style=flat" />
 </p>
-
----
-
-## ⚡ Mindset
-
-> "I don’t just write code — I build systems, break them, and make them unstoppable."
